@@ -2,7 +2,7 @@
 
 **Prepared by:** Abdessamad Bourkibate  
 **Title:** Researcher in the Jurisprudence of Family Cybersecurity  
-**Date:** $(date +'%Y-%m-%d')
+**Date:** 2025-07-08
 
 ---
 
